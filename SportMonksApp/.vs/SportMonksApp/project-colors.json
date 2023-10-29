@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26a8d752-0ced-4c3b-80a2-52c860aa754a": {
+      "ProjectGuid": "26a8d752-0ced-4c3b-80a2-52c860aa754a",
+      "DisplayName": "SportMonksAppConsole",
+      "ColorIndex": 0
+    },
+    "8fb3cff3-92b3-4bdc-9e92-17ea88c866ce": {
+      "ProjectGuid": "8fb3cff3-92b3-4bdc-9e92-17ea88c866ce",
+      "DisplayName": "ApiRequesterLibrary",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

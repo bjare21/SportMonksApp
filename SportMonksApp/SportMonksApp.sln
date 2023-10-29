@@ -4,6 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportMonksAppConsole", "SportMonksAppConsole\SportMonksAppConsole.csproj", "{26A8D752-0CED-4C3B-80A2-52C860AA754A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8FB3CFF3-92B3-4BDC-9E92-17EA88C866CE} = {8FB3CFF3-92B3-4BDC-9E92-17EA88C866CE}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRequesterLibrary", "..\..\..\_Playground\ApiRequester\ApiRequester\ApiRequesterLibrary\ApiRequesterLibrary.csproj", "{8FB3CFF3-92B3-4BDC-9E92-17EA88C866CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +20,10 @@ Global
 		{26A8D752-0CED-4C3B-80A2-52C860AA754A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26A8D752-0CED-4C3B-80A2-52C860AA754A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26A8D752-0CED-4C3B-80A2-52C860AA754A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB3CFF3-92B3-4BDC-9E92-17EA88C866CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB3CFF3-92B3-4BDC-9E92-17EA88C866CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB3CFF3-92B3-4BDC-9E92-17EA88C866CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB3CFF3-92B3-4BDC-9E92-17EA88C866CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
