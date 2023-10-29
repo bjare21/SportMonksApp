@@ -1,0 +1,15 @@
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\obj\Debug\net6.0\SportMonksAppConsole.csproj.AssemblyReference.cache
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\obj\Debug\net6.0\SportMonksAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\obj\Debug\net6.0\SportMonksAppConsole.AssemblyInfoInputs.cache
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\obj\Debug\net6.0\SportMonksAppConsole.AssemblyInfo.cs
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\obj\Debug\net6.0\SportMonksAppConsole.csproj.CoreCompileInputs.cache
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\bin\Debug\net6.0\SportMonksAppConsole.exe
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\bin\Debug\net6.0\SportMonksAppConsole.deps.json
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\bin\Debug\net6.0\SportMonksAppConsole.runtimeconfig.json
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\bin\Debug\net6.0\SportMonksAppConsole.dll
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\bin\Debug\net6.0\ref\SportMonksAppConsole.dll
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\bin\Debug\net6.0\SportMonksAppConsole.pdb
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\obj\Debug\net6.0\SportMonksAppConsole.dll
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\obj\Debug\net6.0\ref\SportMonksAppConsole.dll
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\obj\Debug\net6.0\SportMonksAppConsole.pdb
+D:\C# Projekty\_Moje\SportMonksApp\SportMonksApp\SportMonksAppConsole\obj\Debug\net6.0\SportMonksAppConsole.genruntimeconfig.cache
